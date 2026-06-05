@@ -1,0 +1,6 @@
+{
+  "appId": "com.deeps.kitchenchaos",
+  "appName": "Kitchen Chaos",
+  "webDir": "www",
+  "bundledWebRuntime": false
+}
